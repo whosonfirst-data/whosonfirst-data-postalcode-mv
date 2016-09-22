@@ -9,6 +9,7 @@
     "geom:latitude":0.0,
     "geom:longitude":0.0,
     "iso:country":"MV",
+    "mz:hierarchy_label":1,
     "src:geom":"geoplanet",
     "wof:belongsto":[
         85685277,
@@ -36,10 +37,11 @@
         }
     ],
     "wof:id":437284529,
-    "wof:lastmodified":1459822396,
+    "wof:lastmodified":1474577962,
     "wof:name":"0904",
     "wof:parent_id":"101835219",
     "wof:placetype":"postalcode",
+    "wof:repo":"whosonfirst-data-postalcode-mv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
